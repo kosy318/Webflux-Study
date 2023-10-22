@@ -7,3 +7,5 @@ Spring WebFlux : https://scribble-doodle-code.tistory.com/119
 Reactor: https://scribble-doodle-code.tistory.com/120
 
 Cold/Hot Sequence: (private)https://scribble-doodle-code.tistory.com/manage/newpost/?type=post&returnURL=%2Fmanage%2Fposts%2F
+
+backpressure: https://scribble-doodle-code.tistory.com/122
