@@ -28,6 +28,8 @@ dependencies {
     testImplementation 'io.projectreactor:reactor-test'
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
+
+    implementation 'com.jayway.jsonpath:json-path'
 }
 
 tasks.named('test') {
