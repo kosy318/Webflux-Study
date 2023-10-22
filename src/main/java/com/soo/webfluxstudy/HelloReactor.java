@@ -1,6 +1,6 @@
-package com.example.webfluxstudy;
+package com.soo.webfluxstudy;
 
-import com.example.webfluxstudy.utils.Logger;
+import com.soo.webfluxstudy.utils.Logger;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 

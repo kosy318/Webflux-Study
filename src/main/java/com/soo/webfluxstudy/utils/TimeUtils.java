@@ -1,4 +1,4 @@
-package com.example.webfluxstudy.utils;
+package com.soo.webfluxstudy.utils;
 
 public class TimeUtils {
     public static void sleep(long milliseconds){
